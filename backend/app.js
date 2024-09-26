@@ -11,7 +11,8 @@ const route = require('./routes/routes');
 const app = express();
 const allowedOrigins = [
   'http://localhost:3000',
-  'https://resume-builder-chi-orpin.vercel.app'
+  'https://resume-builder-chi-orpin.vercel.app',
+  "https://resume-builder-one-jet.vercel.app"
 ];
 
 app.use(cors({
