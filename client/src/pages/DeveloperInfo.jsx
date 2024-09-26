@@ -39,7 +39,7 @@ const useStyles = makeStyles((theme) => ({
  
 const developers = [
   {
-    name: 'Faadil /khaleel',
+    name: 'Faadil khaleel',
     // role: 'MongoDB',
     description: 'Handles database design, management, and ensures efficient data storage and retrieval.',
     image: 'https://imgs.search.brave.com/5fXtQwuEwt7V7wnlj5vjKOx_S5k-A_6xW92yh3VfJSs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9wbHVz/cG5nLmNvbS9pbWct/cG5nL2xvZ28tbW9u/Z29kYi1wbmctaHVu/ZHJlZHMtb2YtcG9w/dWxhci1tb25nb2Ri/LWFydGljbGVzLTQw/MC5wbmc', // Replace with actual image URL
